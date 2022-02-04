@@ -1,0 +1,23 @@
+
+  /* @import url("https://use.typekit.net/vez7jfw.css"); */
+*{
+    font-family: arno-pro, serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.collapse, .navbar-collapse{
+    justify-content: flex-end;
+}
+
+/* main*/
+/*background main*/
+body{
+  background: url(/img/fond02.jpg);
+  height: 100vh;
+
+}
+/*footer*/
+footer{
+  height: 15vh;
+  background-color: rgb(12, 12, 12);
+}
